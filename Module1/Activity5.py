@@ -11,7 +11,13 @@ data = {
  
  
 # STEP 3: Display DataFrame
- 
+df = pd.DataFrame(data)
+print(df)
  
 # STEP 4: Read a CSV file 
 # df2 = pd.read_csv("sample.csv")
+
+#print(df.info)
+#print(df.describe())
+print(df["Name"])
+print(df.loc[0])
