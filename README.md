@@ -1,0 +1,2 @@
+# AIDI1002W2026
+This is AIDI1002 course
