@@ -12,5 +12,5 @@ print(type(message))
  
  
 # STEP 3: Access list and dictionary elements
-         # first item in list
-   # get value from dictionary
+print(numbers[0])       # first item in list
+print(student["name"])   # get value from dictionary
